@@ -1,0 +1,1 @@
+const guessNumber = (num) => num === 42 ? 'You win!' : 'Try again!'
