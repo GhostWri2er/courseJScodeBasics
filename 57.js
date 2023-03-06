@@ -1,0 +1,1 @@
+const getLetter = (str, number) => str[number - 1] || ''
